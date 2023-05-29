@@ -1,4 +1,4 @@
-const cubes = [];c
+const cubes = []
 const uniqid = require('uniqid')
 
 exports.getAll = () => cubes.slice();
